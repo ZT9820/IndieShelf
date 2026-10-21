@@ -59,6 +59,12 @@ From the repository folder, run:
 python -m unittest discover -s tests -v
 ```
 
+## Acknowledgements
+
+IndieShelf was created by its project author with development assistance from
+GitHub Copilot, an AI assistant. The author guides the project and is
+responsible for reviewing and publishing its contents.
+
 ## License
 
 No license has been added yet. Choose a license before distributing or
